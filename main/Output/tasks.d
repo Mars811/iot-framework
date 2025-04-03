@@ -1,0 +1,16 @@
+..\..\output\tasks.o: ..\..\Middlewares\freertos\src\tasks.c
+..\..\output\tasks.o: F:\Program\Unpack\Keil5MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+..\..\output\tasks.o: F:\Program\Unpack\Keil5MDK\ARM\ARMCC\Bin\..\include\string.h
+..\..\output\tasks.o: ..\..\Middlewares\freertos\inc\FreeRTOS.h
+..\..\output\tasks.o: F:\Program\Unpack\Keil5MDK\ARM\ARMCC\Bin\..\include\stddef.h
+..\..\output\tasks.o: F:\Program\Unpack\Keil5MDK\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\tasks.o: ..\..\Middlewares\freertos\FreeRTOSConfig.h
+..\..\output\tasks.o: ..\..\Middlewares\freertos\inc\projdefs.h
+..\..\output\tasks.o: ..\..\Middlewares\freertos\inc\portable.h
+..\..\output\tasks.o: ..\..\Middlewares\freertos\inc\deprecated_definitions.h
+..\..\output\tasks.o: ..\..\Middlewares\freertos\port\portmacro.h
+..\..\output\tasks.o: ..\..\Middlewares\freertos\inc\mpu_wrappers.h
+..\..\output\tasks.o: ..\..\Middlewares\freertos\inc\task.h
+..\..\output\tasks.o: ..\..\Middlewares\freertos\inc\list.h
+..\..\output\tasks.o: ..\..\Middlewares\freertos\inc\timers.h
+..\..\output\tasks.o: ..\..\Middlewares\freertos\inc\StackMacros.h

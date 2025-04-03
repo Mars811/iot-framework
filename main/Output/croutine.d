@@ -1,0 +1,14 @@
+..\..\output\croutine.o: ..\..\Middlewares\freertos\src\croutine.c
+..\..\output\croutine.o: ..\..\Middlewares\freertos\inc\FreeRTOS.h
+..\..\output\croutine.o: F:\Program\Unpack\Keil5MDK\ARM\ARMCC\Bin\..\include\stddef.h
+..\..\output\croutine.o: F:\Program\Unpack\Keil5MDK\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\croutine.o: ..\..\Middlewares\freertos\FreeRTOSConfig.h
+..\..\output\croutine.o: ..\..\Middlewares\freertos\inc\projdefs.h
+..\..\output\croutine.o: ..\..\Middlewares\freertos\inc\portable.h
+..\..\output\croutine.o: ..\..\Middlewares\freertos\inc\deprecated_definitions.h
+..\..\output\croutine.o: ..\..\Middlewares\freertos\port\portmacro.h
+..\..\output\croutine.o: ..\..\Middlewares\freertos\inc\mpu_wrappers.h
+..\..\output\croutine.o: ..\..\Middlewares\freertos\inc\task.h
+..\..\output\croutine.o: ..\..\Middlewares\freertos\inc\list.h
+..\..\output\croutine.o: ..\..\Middlewares\freertos\inc\croutine.h
+..\..\output\croutine.o: ..\..\Middlewares\freertos\inc\list.h

@@ -1,0 +1,10 @@
+..\..\output\lv_printf.o: ..\..\Middlewares\LVGL\LVGL_SRC\lvgl\src\misc\lv_printf.c
+..\..\output\lv_printf.o: ..\..\Middlewares\LVGL\LVGL_SRC\lvgl\src\misc\lv_printf.h
+..\..\output\lv_printf.o: ..\..\Middlewares\LVGL\LVGL_SRC\lvgl\src\misc\../lv_conf_internal.h
+..\..\output\lv_printf.o: F:\Program\Unpack\Keil5MDK\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\lv_printf.o: ..\..\Middlewares\LVGL\LVGL_SRC\lvgl\src\misc\../lv_conf_kconfig.h
+..\..\output\lv_printf.o: ..\..\Middlewares\LVGL\LVGL_SRC\lvgl\examples\porting\../../lv_conf.h
+..\..\output\lv_printf.o: F:\Program\Unpack\Keil5MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+..\..\output\lv_printf.o: F:\Program\Unpack\Keil5MDK\ARM\ARMCC\Bin\..\include\stddef.h
+..\..\output\lv_printf.o: ..\..\Middlewares\LVGL\LVGL_SRC\lvgl\src\misc\lv_types.h
+..\..\output\lv_printf.o: F:\Program\Unpack\Keil5MDK\ARM\ARMCC\Bin\..\include\stdbool.h

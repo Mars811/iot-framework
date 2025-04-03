@@ -1,0 +1,5 @@
+Load "..\\..\\Output\\atk_f407.axf" 
+_____^
+*** error 56: cannot open file
+Error: Flash Download failed  -  Could not load file '..\..\Output\atk_f407.axf'
+Flash Load finished at 08:42:27

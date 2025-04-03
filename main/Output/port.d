@@ -1,0 +1,12 @@
+..\..\output\port.o: ..\..\Middlewares\freertos\port\port.c
+..\..\output\port.o: ..\..\Middlewares\freertos\inc\FreeRTOS.h
+..\..\output\port.o: F:\Program\Unpack\Keil5MDK\ARM\ARMCC\Bin\..\include\stddef.h
+..\..\output\port.o: F:\Program\Unpack\Keil5MDK\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\port.o: ..\..\Middlewares\freertos\FreeRTOSConfig.h
+..\..\output\port.o: ..\..\Middlewares\freertos\inc\projdefs.h
+..\..\output\port.o: ..\..\Middlewares\freertos\inc\portable.h
+..\..\output\port.o: ..\..\Middlewares\freertos\inc\deprecated_definitions.h
+..\..\output\port.o: ..\..\Middlewares\freertos\port\portmacro.h
+..\..\output\port.o: ..\..\Middlewares\freertos\inc\mpu_wrappers.h
+..\..\output\port.o: ..\..\Middlewares\freertos\inc\task.h
+..\..\output\port.o: ..\..\Middlewares\freertos\inc\list.h

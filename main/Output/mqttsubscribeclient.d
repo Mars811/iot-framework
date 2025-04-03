@@ -1,0 +1,11 @@
+..\..\output\mqttsubscribeclient.o: ..\..\MyCodes\aliyun\mqtt\MQTTSubscribeClient.c
+..\..\output\mqttsubscribeclient.o: ..\..\MyCodes\aliyun\mqtt\MQTTPacket.h
+..\..\output\mqttsubscribeclient.o: ..\..\MyCodes\aliyun\mqtt\MQTTConnect.h
+..\..\output\mqttsubscribeclient.o: ..\..\MyCodes\aliyun\mqtt\MQTTPublish.h
+..\..\output\mqttsubscribeclient.o: ..\..\MyCodes\aliyun\mqtt\MQTTSubscribe.h
+..\..\output\mqttsubscribeclient.o: ..\..\MyCodes\aliyun\mqtt\MQTTUnsubscribe.h
+..\..\output\mqttsubscribeclient.o: ..\..\MyCodes\aliyun\mqtt\MQTTFormat.h
+..\..\output\mqttsubscribeclient.o: ..\..\MyCodes\aliyun\mqtt\StackTrace.h
+..\..\output\mqttsubscribeclient.o: F:\Program\Unpack\Keil5MDK\ARM\ARMCC\Bin\..\include\stdio.h
+..\..\output\mqttsubscribeclient.o: ..\..\MyCodes\aliyun\mqtt\MQTTPacket.h
+..\..\output\mqttsubscribeclient.o: F:\Program\Unpack\Keil5MDK\ARM\ARMCC\Bin\..\include\string.h

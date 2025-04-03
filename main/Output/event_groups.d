@@ -1,0 +1,15 @@
+..\..\output\event_groups.o: ..\..\Middlewares\freertos\src\event_groups.c
+..\..\output\event_groups.o: F:\Program\Unpack\Keil5MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+..\..\output\event_groups.o: ..\..\Middlewares\freertos\inc\FreeRTOS.h
+..\..\output\event_groups.o: F:\Program\Unpack\Keil5MDK\ARM\ARMCC\Bin\..\include\stddef.h
+..\..\output\event_groups.o: F:\Program\Unpack\Keil5MDK\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\event_groups.o: ..\..\Middlewares\freertos\FreeRTOSConfig.h
+..\..\output\event_groups.o: ..\..\Middlewares\freertos\inc\projdefs.h
+..\..\output\event_groups.o: ..\..\Middlewares\freertos\inc\portable.h
+..\..\output\event_groups.o: ..\..\Middlewares\freertos\inc\deprecated_definitions.h
+..\..\output\event_groups.o: ..\..\Middlewares\freertos\port\portmacro.h
+..\..\output\event_groups.o: ..\..\Middlewares\freertos\inc\mpu_wrappers.h
+..\..\output\event_groups.o: ..\..\Middlewares\freertos\inc\task.h
+..\..\output\event_groups.o: ..\..\Middlewares\freertos\inc\list.h
+..\..\output\event_groups.o: ..\..\Middlewares\freertos\inc\timers.h
+..\..\output\event_groups.o: ..\..\Middlewares\freertos\inc\event_groups.h

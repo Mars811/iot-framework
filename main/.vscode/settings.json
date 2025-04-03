@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "lvgl.h": "c",
+        "btim.h": "c",
+        "gui_guider.h": "c",
+        "*.tcc": "c",
+        "ostream": "c",
+        "key.h": "c",
+        "rtos_app.h": "c",
+        "freertos.h": "c",
+        "xuart.h": "c",
+        "sys.h": "c",
+        "lvgl_app.h": "c",
+        "delay.h": "c",
+        "info_processor.h": "c",
+        "cstdint": "c",
+        "led.h": "c",
+        "gtim.h": "c",
+        "tim.h": "c",
+        "usart.h": "c",
+        "string.h": "c"
+    }
+}

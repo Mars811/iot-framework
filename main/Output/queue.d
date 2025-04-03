@@ -1,0 +1,15 @@
+..\..\output\queue.o: ..\..\Middlewares\freertos\src\queue.c
+..\..\output\queue.o: F:\Program\Unpack\Keil5MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+..\..\output\queue.o: F:\Program\Unpack\Keil5MDK\ARM\ARMCC\Bin\..\include\string.h
+..\..\output\queue.o: ..\..\Middlewares\freertos\inc\FreeRTOS.h
+..\..\output\queue.o: F:\Program\Unpack\Keil5MDK\ARM\ARMCC\Bin\..\include\stddef.h
+..\..\output\queue.o: F:\Program\Unpack\Keil5MDK\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\queue.o: ..\..\Middlewares\freertos\FreeRTOSConfig.h
+..\..\output\queue.o: ..\..\Middlewares\freertos\inc\projdefs.h
+..\..\output\queue.o: ..\..\Middlewares\freertos\inc\portable.h
+..\..\output\queue.o: ..\..\Middlewares\freertos\inc\deprecated_definitions.h
+..\..\output\queue.o: ..\..\Middlewares\freertos\port\portmacro.h
+..\..\output\queue.o: ..\..\Middlewares\freertos\inc\mpu_wrappers.h
+..\..\output\queue.o: ..\..\Middlewares\freertos\inc\task.h
+..\..\output\queue.o: ..\..\Middlewares\freertos\inc\list.h
+..\..\output\queue.o: ..\..\Middlewares\freertos\inc\queue.h

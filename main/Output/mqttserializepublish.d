@@ -1,0 +1,11 @@
+..\..\output\mqttserializepublish.o: ..\..\MyCodes\aliyun\mqtt\MQTTSerializePublish.c
+..\..\output\mqttserializepublish.o: ..\..\MyCodes\aliyun\mqtt\MQTTPacket.h
+..\..\output\mqttserializepublish.o: ..\..\MyCodes\aliyun\mqtt\MQTTConnect.h
+..\..\output\mqttserializepublish.o: ..\..\MyCodes\aliyun\mqtt\MQTTPublish.h
+..\..\output\mqttserializepublish.o: ..\..\MyCodes\aliyun\mqtt\MQTTSubscribe.h
+..\..\output\mqttserializepublish.o: ..\..\MyCodes\aliyun\mqtt\MQTTUnsubscribe.h
+..\..\output\mqttserializepublish.o: ..\..\MyCodes\aliyun\mqtt\MQTTFormat.h
+..\..\output\mqttserializepublish.o: ..\..\MyCodes\aliyun\mqtt\StackTrace.h
+..\..\output\mqttserializepublish.o: F:\Program\Unpack\Keil5MDK\ARM\ARMCC\Bin\..\include\stdio.h
+..\..\output\mqttserializepublish.o: ..\..\MyCodes\aliyun\mqtt\MQTTPacket.h
+..\..\output\mqttserializepublish.o: F:\Program\Unpack\Keil5MDK\ARM\ARMCC\Bin\..\include\string.h
